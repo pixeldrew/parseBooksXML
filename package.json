@@ -1,10 +1,10 @@
 {"name": "parseBooksXML"
-,"version": "0.1"
+,"version": "0.0.1"
 ,"engines": { "node": ">= 0.4.x < 0.7.0" }
 ,"description": "Simple command line tool to parse Google Books xml output to json"
 ,"author": "Drew Foehn <drew@pixelburn.net>"
 ,"dependencies" : {
-    "node-expat" : ">= 1.4.0"
+    "xml2json" : ">= 0.2.4"
     ,"commander" : ">= 0.3.2"
     }
 }
